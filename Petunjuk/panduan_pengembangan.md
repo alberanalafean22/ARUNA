@@ -10,3 +10,13 @@ Gambaran UI UX Aruna Last Update:
 - https://bps1372.github.io/ARUNA/code_appscript/login.html
 - https://bps1372.github.io/ARUNA/code_appscript/dashboard.html
 
+Tampilan UI UX akun Admin Master
+<img width="960" height="493" alt="image" src="https://github.com/user-attachments/assets/5b264814-eb98-4633-9e64-6032a72f5201" />
+
+<img width="960" height="495" alt="image" src="https://github.com/user-attachments/assets/1e32d248-c34f-48ed-a8b2-55e7eb9509c5" />
+
+<img width="960" height="495" alt="image" src="https://github.com/user-attachments/assets/27e4a82d-df4f-48ed-b1e8-56edb1cc6be1" />
+
+
+
+
