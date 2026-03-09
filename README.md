@@ -11,3 +11,5 @@ Bahasa Pemrograman:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
+
+<img width="960" height="491" alt="image" src="https://github.com/user-attachments/assets/3ac878b3-0b46-42d1-86cf-5c56f2451d99" />
