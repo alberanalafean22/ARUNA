@@ -1,5 +1,5 @@
 # ARUNA
-ARUNA dikembangkan memanfaatkan Google appscript yang merupakan platform website berbasis Google yang terintegrasi pada lingkungan Google Workspace dan bisa melalukan p[roses otomasi
+ARUNA dikembangkan memanfaatkan Google appscript yang merupakan platform website berbasis Google yang terintegrasi pada lingkungan Google Workspace (Google Drive, Gmail dan Google Spreadsheet) dan bisa melakukan proses otomasi data 
 
 Last Update V1.54 - 4 Maret 2026
 
